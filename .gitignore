@@ -1,2 +1,4 @@
 # Created by .ignore support plugin (hsz.mobi)
-/match/Titanic/
+global-ignores = *.idea *.o *.lo *.la *.al .libs *.so *.so.[0-9]* *.pyc *.pyo [Tt]humbs.db [Bb]in [Oo]bj  *.suo *.user
+（ [Bb]in [Oo]bj  *.suo *.user
+.idea/.gitignore
